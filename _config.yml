@@ -1,0 +1,5 @@
+title: Sabahat Ghias Portfolio
+description: Gold Medalist | Data Scientist | CDMP + CISA Certified
+remote_theme: pages-themes/cayman
+plugins:
+  - jekyll-remote-theme
