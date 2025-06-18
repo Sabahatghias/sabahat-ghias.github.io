@@ -10,8 +10,8 @@ Turning raw data into real decisions.
 
 ---
 
-### 🔗 Navigation  
-[About Me](#about-me) • [Skills](#skills) • [Projects](#key-projects) • [Experience](#experience) • [Certifications](#certifications) • [Contact](#contact)
+###  
+[About Me](#about-me)    • [Skills](#skills)   • [Projects](#key-projects)   • [Experience](#experience)   • [Certifications](#certifications)   • [Contact](#contact)
 
 ---
 
